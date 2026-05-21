@@ -1,5 +1,5 @@
 ﻿{
-  "version":"3",
+  "version":"5",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_AnimeApocalypseInfinite/releases/latest/download/AnimeApocalypseInfinite_exe.zip",
   "assets":"",
